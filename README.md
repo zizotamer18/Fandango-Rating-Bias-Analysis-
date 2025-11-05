@@ -4,7 +4,8 @@
 
 This project explores whether Fandango’s movie ratings are biased toward higher scores compared to other review platforms. The analysis is based on publicly available data and web-scraped Fandango ratings, with comparisons to critics’ and audience ratings from other sources.
 
-The notebook performs data cleaning, visualization, and statistical comparison to assess discrepancies and patterns in rating distributions.
+The notebook performs data cleaning, visualization, and statistical comparison to assess discrepancies and patterns in rating distributions. <br />
+<br />
 
 📁 Files Included
 
@@ -12,7 +13,9 @@ The notebook performs data cleaning, visualization, and statistical comparison t
 |------|--------------|
 | `Fandango_Rating_Bias_Analysis.ipynb` | Main Jupyter notebook containing the full analysis, visualizations, and conclusions. |
 | `fandango_scrape.csv` | Dataset of Fandango movie ratings scraped from the website. |
-| `all_sites_scores.csv` | Dataset of ratings collected from multiple review platforms (e.g., Rotten Tomatoes, Metacritic, IMDB). |
+| `all_sites_scores.csv` | Dataset of ratings collected from multiple review platforms (e.g., Rotten Tomatoes, Metacritic, IMDB). |<br>
+<br>
+
 
 
 
@@ -24,7 +27,9 @@ Compare average ratings across multiple platforms.
 
 Visualize and interpret rating distributions.
 
-Quantify rating bias through statistical measures.
+Quantify rating bias through statistical measures.<br>
+<br>
+
 
 
 
@@ -39,7 +44,9 @@ Matplotlib / Seaborn for visualizations
 
 NumPy for numerical operations
 
-Jupyter Notebook for exploration and documentation
+Jupyter Notebook for exploration and documentation <br>
+<br>
+
 
 
 📈 Example Insights
@@ -48,7 +55,10 @@ Fandango’s displayed ratings tend to cluster around higher values compared to 
 
 Visualizations show a skew toward inflated scores for the same movies.
 
-Average discrepancies are statistically significant across datasets.
+Average discrepancies are statistically significant across datasets.<br>
+<br>
+
+
 
 
 
