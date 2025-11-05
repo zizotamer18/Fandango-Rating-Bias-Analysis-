@@ -9,8 +9,12 @@ The notebook performs data cleaning, visualization, and statistical comparison t
 📁 Files Included
 File	Description
 Fandango_Rating_Bias_Analysis.ipynb	Main Jupyter notebook containing the full analysis, visualizations, and conclusions.
+
 fandango_scrape.csv	Dataset of Fandango movie ratings scraped from the website.
+
 all_sites_scores.csv	Dataset of ratings collected from multiple review platforms (e.g., Rotten Tomatoes, Metacritic, IMDB).
+
+
 🧠 Key Objectives
 
 Investigate whether Fandango consistently displays inflated ratings.
@@ -20,6 +24,7 @@ Compare average ratings across multiple platforms.
 Visualize and interpret rating distributions.
 
 Quantify rating bias through statistical measures.
+
 
 🧰 Technologies Used
 
@@ -33,6 +38,7 @@ NumPy for numerical operations
 
 Jupyter Notebook for exploration and documentation
 
+
 📈 Example Insights
 
 Fandango’s displayed ratings tend to cluster around higher values compared to competitors.
@@ -40,6 +46,7 @@ Fandango’s displayed ratings tend to cluster around higher values compared to 
 Visualizations show a skew toward inflated scores for the same movies.
 
 Average discrepancies are statistically significant across datasets.
+
 
 
 📜 References
