@@ -7,12 +7,13 @@ This project explores whether Fandango’s movie ratings are biased toward highe
 The notebook performs data cleaning, visualization, and statistical comparison to assess discrepancies and patterns in rating distributions.
 
 📁 Files Included
-File	Description
-Fandango_Rating_Bias_Analysis.ipynb	Main Jupyter notebook containing the full analysis, visualizations, and conclusions.
 
-fandango_scrape.csv	Dataset of Fandango movie ratings scraped from the website.
+| File | Description |
+|------|--------------|
+| `Fandango_Rating_Bias_Analysis.ipynb` | Main Jupyter notebook containing the full analysis, visualizations, and conclusions. |
+| `fandango_scrape.csv` | Dataset of Fandango movie ratings scraped from the website. |
+| `all_sites_scores.csv` | Dataset of ratings collected from multiple review platforms (e.g., Rotten Tomatoes, Metacritic, IMDB). |
 
-all_sites_scores.csv	Dataset of ratings collected from multiple review platforms (e.g., Rotten Tomatoes, Metacritic, IMDB).
 
 
 🧠 Key Objectives
@@ -24,6 +25,8 @@ Compare average ratings across multiple platforms.
 Visualize and interpret rating distributions.
 
 Quantify rating bias through statistical measures.
+
+
 
 
 🧰 Technologies Used
